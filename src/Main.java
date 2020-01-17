@@ -1,10 +1,6 @@
-import java.io.File;
 import java.io.IOException;
 import java.nio.file.*;
-import java.util.List;
 import java.util.Scanner;
-
-import static java.util.stream.Collectors.toList;
 
 
 public class Main {
